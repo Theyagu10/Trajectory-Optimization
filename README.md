@@ -8,4 +8,4 @@ This program optimizes the path with help of minimization and constraint functio
 
 The Matlab function fmincon uses the minimization and constraint functions to minimize the path.
 
-[![Trajectory-Optimization](https://img.youtube.com/vi/D8FdAetEN54)](https://www.youtube.com/watch?v=D8FdAetEN54)
+[![Trajectory-Optimization](https://img.youtube.com/vi/D8FdAetEN54/0.jpg)](https://www.youtube.com/watch?v=D8FdAetEN54)

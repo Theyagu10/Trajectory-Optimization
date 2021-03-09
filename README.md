@@ -2,7 +2,7 @@
 
 Trajectory Optimization in Matlab using fmincon function.
 
-The goal is to find the optimized path to move from point A to B.
+The goal is to find the optimized path to move from point A to B without colliding the obstacles.
 
 This program optimizes the path with help of minimization and constraint function.
 
